@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1711491387 source:c:\users\asus\documents\yaile\metrocontador\main.cpp
+	<iostream>
+	<vector>
+
+1712017747 source:c:\users\asus\desktop\yaile c++\yaile\metrocontador\main.cpp
+	<iostream>
+	<vector>
+	<Empresa.h>
+
+1711980358 source:c:\users\asus\desktop\yaile c++\yaile\metrocontador\funciones.cpp
+
+1712017630 source:c:\users\asus\desktop\yaile c++\yaile\metrocontador\src\empresa.cpp
+	"Empresa.h"
+	"Cliente.h"
+
+1712017404 c:\users\asus\desktop\yaile c++\yaile\metrocontador\include\empresa.h
+
+1712017373 c:\users\asus\desktop\yaile c++\yaile\metrocontador\include\cliente.h
+
+1712179032 source:d:\metrocontador\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1712185680 d:\metrocontador\include\cliente.h
+	<iostream>
+
+1712185610 source:d:\metrocontador\main.cpp
+	<iostream>
+	"Cliente.h"
+	"ClienteMayorConsumidor.h"
+	"ClienteMenorConsumidor.h"
+	"ControlElectrico.h"
+
+1712017720 d:\metrocontador\cliente.h
+
+1712185594 d:\metrocontador\include\clientemayorconsumidor.h
+	"Cliente.h"
+
+1712185594 d:\metrocontador\include\clientemenorconsumidor.h
+	"Cliente.h"
+
+1712178650 d:\metrocontador\include\controlelectrico.h
+	"Cliente.h"
+	<vector>
+
+1712182694 source:d:\metrocontador\src\clientemayorconsumidor.cpp
+	"ClienteMayorConsumidor.h"
+
+1712185762 source:d:\metrocontador\src\clientemenorconsumidor.cpp
+	"ClienteMenorConsumidor.h"
+
+1712190911 source:c:\users\andy\desktop\metrocontador\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1712190911 c:\users\andy\desktop\metrocontador\include\cliente.h
+	<iostream>
+
+1712190972 source:c:\users\andy\desktop\metrocontador\src\clientemayorconsumidor.cpp
+	"ClienteMayorConsumidor.h"
+
+1712190972 c:\users\andy\desktop\metrocontador\include\clientemayorconsumidor.h
+	"Cliente.h"
+
+1712190972 source:c:\users\andy\desktop\metrocontador\src\clientemenorconsumidor.cpp
+	"ClienteMenorConsumidor.h"
+
+1712190972 c:\users\andy\desktop\metrocontador\include\clientemenorconsumidor.h
+	"Cliente.h"
+
+1712191707 source:c:\users\andy\desktop\metrocontador\src\controlelectrico.cpp
+	"ControlElectrico.h"
+
+1712190759 c:\users\andy\desktop\metrocontador\include\controlelectrico.h
+	"Cliente.h"
+	<vector>
+
+1712191660 source:c:\users\andy\desktop\metrocontador\main.cpp
+	<iostream>
+	"Cliente.h"
+	"ClienteMayorConsumidor.h"
+	"ClienteMenorConsumidor.h"
+	"ControlElectrico.h"
+
+1712017720 c:\users\andy\desktop\metrocontador\cliente.h
+
